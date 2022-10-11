@@ -1,0 +1,10 @@
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\bin\Debug\PrintScreenCSharp.exe.config
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\bin\Debug\PrintScreenCSharp.exe
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\bin\Debug\PrintScreenCSharp.pdb
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.csproj.AssemblyReference.cache
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.frmCaptura.resources
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.Properties.Resources.resources
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.csproj.GenerateResource.cache
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.exe
+C:\Users\Jaqueline\source\repos\PrintScreenCSharp\PrintScreenCSharp\obj\Debug\PrintScreenCSharp.pdb
